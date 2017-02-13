@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "^15.4",
-    "react-dom": "^15.4"
+    "react-dom": "^15.4",
+    "uploadcare-widget": "^2.10.3"
   },
   "devDependencies": {
     "auto-reload-brunch": "^2",
